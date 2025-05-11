@@ -1,4 +1,6 @@
-## Hi there 👋
+# ! Hai
+
+![mio akiyama](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTlocmp0MTVzajJzejFoa25lYXdzZDl4NDEzM25sZ3VjejQ0cHAzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Iah6TEj86vPJC/giphy.gif)
 
 <!--
 **Ghoke26/Ghoke26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+> [! ATTENTION]
+>
+> - Punya _impian_ tetapi entah mengapa rasa malas selalu datang
+> - punya _skill_ tetapi tidak begitu dalam
+> - semua butuh proses jalani saja dengan **semampumu**
+> - lihat semua yang kamu lakukan di **<sup>5-10 tahun mendatang</sup>**
+> - **<ins>kamu akan merasakan dampak dari ketekunan-mu</ins>**
